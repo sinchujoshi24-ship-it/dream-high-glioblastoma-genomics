@@ -56,8 +56,4 @@ This analysis is an exploratory investigation of gene-expression patterns in pri
 Research Materials:
 
 - [View the R analysis on RPubs](https://rpubs.com/musfirah/1451746)
-- Research presentation: [Add your presentation link or PDF]
-
----
-
-*This project represents exploratory computational research and does not establish a clinically validated diagnostic biomarker.*
+- [View the Research Presentation](https://github.com/sinchujoshi24-ship-it/friedreichs-ataxia-computational-research/blob/main/DREAMHighFinalProject-MusfirahandSinchana.pdf)
