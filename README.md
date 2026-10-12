@@ -56,4 +56,4 @@ This analysis is an exploratory investigation of gene-expression patterns in pri
 Research Materials:
 
 - [View the R analysis on RPubs](https://rpubs.com/musfirah/1451746)
-- [View the Research Presentation](https://github.com/sinchujoshi24-ship-it/friedreichs-ataxia-computational-research/blob/main/DREAMHighFinalProject-MusfirahandSinchana.pdf)
+- [View the Research Presentation](https://github.com/sinchujoshi24-ship-it/dream-high-glioblastoma-genomics/blob/main/DREAMHighFinalProject-MusfirahandSinchana.pdf)
