@@ -55,7 +55,7 @@ This analysis is an exploratory investigation of gene-expression patterns in pri
 
 Research Materials:
 
-- [View the R analysis on RPubs](INSERT_YOUR_RPUBS_LINK)
+- [View the R analysis on RPubs](https://rpubs.com/musfirah/1451746)
 - Research presentation: [Add your presentation link or PDF]
 
 ---
