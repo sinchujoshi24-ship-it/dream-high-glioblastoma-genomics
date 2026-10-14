@@ -53,7 +53,7 @@ Limitations:
 
 This analysis is an exploratory investigation of gene-expression patterns in primary GBM tumors and solid-tissue normal samples. The normal group contains only five samples, compared with 372 primary tumor samples in the documented comparison. The candidate genes and composite score were derived from the same dataset, so the observed separation may overestimate how well the signature performs on new samples. The analysis should not be presented as a clinically validated biomarker or diagnostic test. Further statistical testing, appropriate control for multiple comparisons, and evaluation in independent datasets would be needed to assess its robustness.
 
-Research Materials:
+Research Outputs:
 
 - [View the R analysis on RPubs](https://rpubs.com/musfirah/1451746)
 - [View the Research Presentation](https://github.com/sinchujoshi24-ship-it/dream-high-glioblastoma-genomics/blob/main/DREAMHighFinalProject-MusfirahandSinchana.pdf)
